@@ -1,9 +1,9 @@
 
-### Oi, Meu nome é Igor.
+### Oi, Meu nome é Kaique.
 
 
--  Atualmente estudando Python
--  Focado em começar a aprender framework Django
+-  Atualmente estudando PHP e C
+-  Focado em aprender Desenvolvimento Web
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.12.0/devicon.min.css
 <br>
@@ -16,9 +16,6 @@
 <br>
 
 
-
-<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/officel/48/ffffff/php-logo.png"/>
 <img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
 <img src="https://img.icons8.com/color/48/ffffff/css3.png"/>
@@ -32,7 +29,7 @@
 <div> 
 
 
-  <a href = "mailto:igorr2693@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:kaique.munoz@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/igor-rodrigues-376786180/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 
